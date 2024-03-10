@@ -46,7 +46,7 @@ A simple Omelette recipe main page  is a visually appealing and user-friendly in
 ## Author
 
 - Website - [Michael](https://www.your-site.com)
-- Frontend Mentor - [@sanyomo-o1](https://www.frontendmentor.io/profile/sanyomor-01)
+- Frontend Mentor - [@sanyomor-o1](https://www.frontendmentor.io/profile/sanyomor-01)
 - Twitter - [@sanyo_mor](https://www.twitter.com/sanyo_mor)
 
 ## Acknowledgments
