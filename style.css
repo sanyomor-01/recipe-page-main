@@ -30,7 +30,7 @@ h1, h2, p,div, h3, section ,article{
     padding: 8.06rem 0;
 }
 .main-contents{
-    width: 36.25rem;
+    width: 41.25rem;
     border-radius: 1.875rem;
     padding:2.5rem;
     background: hsl(0, 0%,100% );
@@ -39,7 +39,7 @@ h1, h2, p,div, h3, section ,article{
      
 }
 .hero{
-    width: 36.25rem;
+    width: 41.25rem;
     display: flex;
     flex-direction: column;
     gap: 1.5rem;
@@ -70,17 +70,19 @@ h1, h2, p,div, h3, section ,article{
     line-height: 1.5rem;
     font-family:"Outfit",sans-serif;
     font-weight: 500;
-    letter-spacing: -0.046rem;
     color:hsl(30, 10%, 34%);
 
 }
 
-.prep-time{
-    margin-top:2.5rem;
-    padding: 1.688rem 1.5rem;
+.prep-time, .ingredients, .instructions, .nutrition {
+    margin-top:1.5rem;
     display: flex;
     flex-direction: column;
     gap: 1.2rem;
+
+}
+.prep-time{
+    padding: 1.688rem 1.5rem;
     border-radius: 1rem;
     background: hsl(330, 100%, 98%);
 }
@@ -90,22 +92,48 @@ h1, h2, p,div, h3, section ,article{
     color: hsl(332, 51%, 32%);
     font-weight: 800;
 }
-
-.prep-time ul{
-    list-style-type: square;
+.list, .numbers{
     color:hsl(30, 10%, 34%);
     display: flex;
     flex-direction: column;
     align-items: flex-start;
     gap: 0.75rem;
 }
-.list li{
-    align-items: center;
-    font-size: 1rem;
+ .prep-time .list li{
     font-weight: 500;
-    font-family: 'Outfit', sans-serif;
-
 }
 .bold{
     font-weight: 700;
+}
+
+.heading2{
+    color:  hsl(14, 45%, 36%);
+    font-family: "Young serif";
+    font-size: 1.5rem;
+    font-weight: 800;
+}
+
+.list li ,.numbers li{
+    font-family: "Outfit", sans-serif;
+    font-size: 1rem;
+    font-weight: 500;
+    color:hsl(30, 10%, 34%);
+    line-height: 1.5rem;
+    align-items: center;
+
+}
+
+hr{
+    margin-top: 1.5rem;
+    width: 41.25rem;
+}
+.numbers li {
+list-style-type: n;
+}
+li{
+    padding-left: 1rem;
+}
+.numbers li::marker {   
+    font-size: 1rem;
+    font-weight: bolder;
 }
