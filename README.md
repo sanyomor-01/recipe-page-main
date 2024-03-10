@@ -15,19 +15,25 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 
 ## Overview
+A simple Omelette recipe main page  is a visually appealing and user-friendly interface crafted with HTML and CSS. Featuring a clean layout, it effortlessly guides users through the steps of preparing a delicious omelette, combining simplicity in design with a focus on an enjoyable cooking experience.
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./assets/images/Desktop.png)
+![](./assets/images/mobile.png)
 
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [My solution URL ](https://github.com/sanyomor-01/recipe-page-main)
+- Live Site URL: [The live site URL here](https://recipe-page-main-opal.vercel.app/)
 
 ## My process
+- Redesign component on figma to get accurate layout measurements
+- Strutured the component using semantic html for accessibility
+- Used CSS to bring out the aesthetic look for good user experience
+- Git hub for version control and tracking all changes every step in the coding process 
 
 ### Built with
 
@@ -39,10 +45,11 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Michael](https://www.your-site.com)
+- Frontend Mentor - [@sanyomo-o1](https://www.frontendmentor.io/profile/sanyomor-01)
+- Twitter - [@sanyo_mor](https://www.twitter.com/sanyo_mor)
 
 ## Acknowledgments
+- Michael
 
 
