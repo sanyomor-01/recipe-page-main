@@ -46,7 +46,7 @@ Online
 
   https://developers.google.com/fonts/docs/getting_started
   https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Fonts/Variable_Fonts_Guide
-  https://developer.microsoft.com/en-us/microsoft-edge/testdrive/demos/variable-fonts
+  https://developer.microsoft.com/en-us/microsoft-edge/testhrive/demos/variable-fonts
 
 Installing fonts
 
