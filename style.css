@@ -2,9 +2,15 @@
  background: hsl(30, 54%, 90%)
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
+@font-face {
+    font-family: 'Young Serif';
+    src: url('../assets/fonts/young-serif/YoungSerif-Regular.ttf');
+}
 
-@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+@font-face {
+    font-family: 'Outfit';
+    src: url('../assets/fonts/outfit/Outfit-VariableFont_wght.ttf');
+}
 
 *{
     box-sizing: border-box;
